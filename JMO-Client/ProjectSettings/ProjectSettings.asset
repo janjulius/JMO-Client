@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 16
-  productGUID: 8336dfad75a9e0c4fb26ab9aba4f9270
+  productGUID: cd60be26fe957134c8e38f666aefa597
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -633,9 +633,9 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: c4063671-084b-4c05-9b46-a97eb41f01bb
+  cloudProjectId: cedc3761-3e36-43bc-8026-baaef97b092f
   framebufferDepthMemorylessMode: 0
-  projectName: JMO-Client
+  projectName: JMO-Client (1)
   organizationId: jan_julius
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
